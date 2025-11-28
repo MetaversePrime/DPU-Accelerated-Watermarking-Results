@@ -5,3 +5,35 @@ Dataset of visual results showing a 192-bit invisible watermarking system guided
 This repository contains sample results generated from our saliency (visual attention)-guided stealth digital watermarking study. The repository includes original images, watermarked outputs embedded with 192-bit secret information, examples subjected to attacks such as JPEG, blurring, and scaling, and deep learning-based saliency maps. This data is being shared to support the reproducibility of this publication.
 
 In this study, watermarking was performed using a deep learning-based embedding model and a fully hardware-accelerated inference module. The samples were taken from experiments conducted in both software and embedded platforms. The repository contains only experimental output samples; the model weights, training datasets, and codebase are not yet publicly available.
+
+
+All Data Available Here :
+
+https://drive.google.com/drive/folders/1ZKvzv2mjO1Xyim3kqlJwELNemnnW8mMV?usp=sharing
+
+
+MobileNetv2
+01-
+02-
+03-
+04-
+05-
+06-
+07-
+08-
+09-
+10-
+
+FCN_ResNet-50
+
+01-
+02-
+03-
+04-
+05-
+06-
+07-
+08-
+09-
+10-
+11-
